@@ -16,3 +16,4 @@ Books, links related to CPU architecture and reverse engineering.
 - [Dimitrios Slamaris - Embedded Systems Security and TrustZone](https://embeddedsecurity.io/)
 ## Repositories
 - https://github.com/wtsxDev/reverse-engineering: books, courses, tools, practices
+- https://malwareunicorn.org/workshops/re101.html#0 Malware Unicorn RE101 workshop (RE102 also available)
