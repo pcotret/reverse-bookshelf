@@ -5,6 +5,7 @@ Books, links related to CPU architecture and reverse engineering.
 ### Reverse engineering
 - [Reverse Engineering for Beginners (French - Latest)](https://beginners.re/RE4B-FR.pdf)
 - [Reverse Engineering for Beginners (English - Nov 11, 2020)](https://web.archive.org/web/20201111234229/https://beginners.re/RE4B-EN.pdf)
+- [Reverse Engineering For Everyone!](https://0xinfection.github.io/reversing/reversing-for-everyone.pdf)
 ### Computer architecture
 - [Hennessy, Patterson - Computer Architecture: A Quantitative Approach](https://www.elsevier.com/books/computer-architecture/hennessy/978-0-12-811905-1)
 - [Hennessy, Patterson - Computer Organization and Design: RISC-V Edition](https://www.elsevier.com/books/computer-organization-and-design-risc-v-edition/patterson/978-0-12-820331-6)
