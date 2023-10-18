@@ -1,6 +1,10 @@
 # reverse-bookshelf
 Books, links related to CPU architecture and reverse engineering.
 
+## Todo
+- [Twitter links](./twitter_links.md) is a simple copy-paste of most links I share on Twitter/X. It needs to be classified in categories as done below.
+- [Github explore](https://github.com/explore) may give some links in the future.
+
 ## Books
 ### Reverse engineering
 - [Reverse Engineering for Beginners (French - Latest)](https://beginners.re/RE4B-FR.pdf)
